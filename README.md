@@ -1,2 +1,2 @@
 # rockstar-recipes
-[puppy pic](\puppy.jpg)
+![puppy pic](puppy.jpg)
